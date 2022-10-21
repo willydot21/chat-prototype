@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.icon {
+  display: flex;
+  max-width: 150px;
+  max-height: 150px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
